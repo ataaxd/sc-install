@@ -1,4 +1,4 @@
-## OS SUPPORT DEB 9/10 & UBUNTU 18/20
+## OS SUPPORT DEBIAN 9/10 & UBUNTU 18.04/20.04
 
 ## INSTALL SCRIPT 
 Masukkan perintah dibawah untuk menginstall Autoscript Premium by 666
@@ -7,7 +7,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 ```
 
 ## `WAJIB IZIN IP, SILAHKAN HUBUNGI ADMIN !`
-## <a href="https://www.w3schools.com" target= "_blank" >DAFTAR IP DISINI
+## <a href="https://t.me/sedihbatgw" target= "_blank" >DAFTAR IP DISINI
 
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
@@ -16,8 +16,7 @@ wget -q https://raw.githubusercontent.com/ataaxd/sc-install/main/update.sh && ch
 ```
 
 ## TESTED ON OS
-- UBUNTU Version 18 Atau 20 (Recommended)
-- DEBIAN Version 09 Atau 10
+- UBUNTU Version 20.04 LTS
 
 
 ## PORT INFO
