@@ -48,4 +48,4 @@ wget -q https://raw.githubusercontent.com/ataaxd/sc-install/main/update.sh && ch
 ```
 
 ## `! WARNING !`
-Script masih dalam tahap pengembangan, Jika menemukan bug bisa lapor ke admin developer
+Script masih dalam tahap pengembangan, Jika menemukan bug bisa lapor ke <a href="https://t.me/sedihbatgw" target= "_blank" >Admin
