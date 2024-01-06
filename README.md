@@ -7,7 +7,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 ```
 
 ## `WAJIB IZIN IP, SILAHKAN HUBUNGI ADMIN !`
-## https://t.me/sedihbatgw
+## <a href="https://www.w3schools.com" target= "_blank" >Kunjungi W3Schools< /a>
 
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
