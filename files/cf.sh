@@ -1,11 +1,11 @@
 #!/bin/bash# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » Gemilangkinasih࿐
-# Email      » gemilangkinasih@gmail.com
-# telegram   » https://t.me/gemilangkinasih
-# whatsapp   » wa.me/+628984880039
+# Develovers » AtaaXD
+# Email      » ataa666ofc@gmail.com
+# telegram   » https://t.me/sedihbatgw
+# whatsapp   » wa.me/6285248701130
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Gemilangkinasih࿐
+# ATAAXD
 
 #random
 apt install jq curl -y
@@ -16,11 +16,11 @@ echo ""
 echo ""
 echo ""
 #sub=$(</dev/urandom tr -dc a-z0-9 | head -c3)
-read -rp "Input Domain Name. Example ( host ): " -e sub
+read -rp "Input Domain Name. Example ( host09 ): " -e sub
 DOMAIN=666inject.my.id
 SUB_DOMAIN=${sub}.666inject.my.id
 CF_ID=wastaakuy300@gmail.com
-CF_KEY=4a912a2d56a1b3837d48751da5334b74a4fb8
+CF_KEY=cqtop-Jku73_AcogKQQ0IfRFcogliMm3uHVjxENN
 set -euo pipefail
 IP=$(curl -sS ifconfig.me);
 echo "Updating DNS for ${SUB_DOMAIN}..."
