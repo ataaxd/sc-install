@@ -7,7 +7,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 ```
 
 ## `WAJIB IZIN IP, SILAHKAN HUBUNGI ADMIN DIBAWAH INI !`
-## <a href="https://t.me/sedihbatgw" target= "_blank" >DAFTAR IP DISINI
+## <a href="https://t.me/666injectch" target= "_blank" >DAFTAR IP DISINI
 
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
