@@ -6,7 +6,7 @@ Masukkan perintah dibawah untuk menginstall Autoscript Premium by 666
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/ataaxd/sc-install/main/install.sh && chmod +x install.sh && ./install.sh
 ```
 
-## `WAJIB IZIN IP <a href="https://t.me/666injectch/8" target= "_blank" >FREE REGIST IP`
+## `WAJIB IZIN IP` <a href="https://t.me/666injectch/8" target= "_blank" >FREE REGIST IP
 
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
