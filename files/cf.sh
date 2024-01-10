@@ -20,7 +20,7 @@ read -rp "Input Domain Name. Example ( host09 ): " -e sub
 DOMAIN=666inject.my.id
 SUB_DOMAIN=${sub}.666inject.my.id
 CF_ID=wastaakuy300@gmail.com
-CF_KEY=cqtop-Jku73_AcogKQQ0IfRFcogliMm3uHVjxENN
+CF_KEY=y7udrT-FX9kCCgWID-UXv0NyZgyy522mak0oEnDG
 set -euo pipefail
 IP=$(curl -sS ifconfig.me);
 echo "Updating DNS for ${SUB_DOMAIN}..."
