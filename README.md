@@ -1,5 +1,8 @@
 ## SUPPORT OS DEBIAN 9/10 & UBUNTU 18.04/20.04
 
+## UPDATE OS UBUNTU
+apt update && apt upgrade -y && update-grub && sleep 2 && reboot
+
 ## INSTALL SCRIPT 
 Masukkan perintah dibawah untuk menginstall Autoscript Premium by 666
 ```
