@@ -53,4 +53,5 @@ wget -q https://raw.githubusercontent.com/ataaxd/sc-install/main/update.sh && ch
 ```
 
 ## `! WARNING !`
+Script ini masih tahap pengembangan jadi maklum kalo ada yang error
 ## ADMIN OPEN VPS & SSH PREMIUM <a href="https://t.me/sedihbatgw" target= "_blank" >ORDER DISINI
