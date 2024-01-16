@@ -14,14 +14,13 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
+wget -q https://raw.githubusercontent.com/ataaxd/sc-install/main/update.sh && chmod +x update.sh && ./update.sh
+```
 
 
 ## `WAJIB IZIN IP` 
 ## <a href="https://t.me/666injectch/8" target= "_blank" >FREE REGIST IP
 
-
-wget -q https://raw.githubusercontent.com/ataaxd/sc-install/main/update.sh && chmod +x update.sh && ./update.sh
-```
 
 ## TESTED ON OS
 - UBUNTU Version 20.04 LTS
